@@ -1,5 +1,7 @@
-
+# Github:-dharmarajmangrola
 # Import required library
+# start basic on python turtle.
+
 import turtle
 
 
@@ -60,4 +62,3 @@ samllcar.end_fill()
 
 
 samllcar.hideturtle()
-
